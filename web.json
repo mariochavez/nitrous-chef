@@ -1,0 +1,3 @@
+{
+  "run_list": [ "recipe[ctags]", "recipe[dot_files]", "recipe[git]", "recipe[zsh]" ]
+}
